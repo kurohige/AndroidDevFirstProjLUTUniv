@@ -1,0 +1,52 @@
+<resources>
+
+    <!-- Heroes description and information was gathered from "https://heroesofthestorm.fandom.com/wiki/" -->
+    <string name="app_name">Heroes of The Storm Companion App</string>
+    <string-array name="menu">
+        <item>Heroes</item>
+        <item>Maps</item>
+        <item>Builds</item>
+        <item>More</item>
+    </string-array>
+
+    <string-array name="heroes">
+        <item>Alarak</item>
+        <item>Ana</item>
+        <item>Artanis</item>
+    </string-array>
+
+    <string-array name="alarak">
+        <item>Alarak</item> <!--name-->
+        <item>Melee / Assasin</item> <!--Role-->
+        <item>StarCraft</item> <!--Universe-->
+        <item>Hard</item> <!--Difficulty-->
+        <!--Hero Description-->
+    </string-array>
+
+    <string-array name="ana">
+        <item>Ana</item> <!--name-->
+        <item>Healer</item> <!--Role-->
+        <item>Overwatch</item> <!--Universe-->
+        <item>Hard</item> <!--Difficulty-->
+        <!-- Hero Description -->
+        <!--<item>Ana, Veteran Sniper, is a ranged Healer Hero from the Overwatch franchise. As a
+            founding member of Overwatch and one of the world's best snipers, Ana Amari uses
+            her skills to protect the innocent. Though she went MIA after losing her eye,
+            Ana's sense of duty and responsibility has brought her back to the fight. Ana is a
+            burst Healer who uses precise skillshots to heal allies and can deny enemy healing.</item>-->
+    </string-array>
+
+
+    <string-array name="artanis">
+        <item>Artanis</item> <!--name-->
+        <item>Bruiser</item> <!--Role-->
+        <item>StarCraft</item> <!--Universe-->
+        <item>Medium</item> <!--Difficulty-->
+        <!--Hero Description-->
+        <!-->Artanis, the Hierarch of the Daelaam, is a melee Bruiser Hero from the StarCraft
+        universe. Despite his relative youth, Artanis was named Hierarch of the Daelaam after the
+        fall of Aiur. Driven by the promise of a brighter future, he hopes to reclaim the protoss'
+            fallen home world and rebuild their once glorious civilization.</item>-->
+    </string-array>
+
+</resources>
